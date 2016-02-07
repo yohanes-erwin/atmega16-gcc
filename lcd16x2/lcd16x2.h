@@ -10,6 +10,7 @@
 #ifndef LCD16X2_H_
 #define LCD16X2_H_
 
+/** Includes ---------------------------------------------------------------- */
 #include <avr/io.h>
 #include <avr/pgmspace.h>
 #include <util/delay.h>
