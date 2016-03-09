@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  *	@file		i2c.h
+  *	@file		i2c.h (ATmega16)
   * @author		Yohanes Erwin Setiawan
   * @version	1.0
   * @date		21 September 2015
